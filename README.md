@@ -1,20 +1,10 @@
-# Fahrkartenautomat (Java)
+Fahrkartenautomat (Java)
 
-Dies ist ein Konsolenprogramm in Java, das als einfacher Fahrkartenautomat für Berlin AB dient.  
-Der Nutzer kann Ticketarten auswählen, die Anzahl angeben, Geld einwerfen und Rückgeld erhalten.
+Dies ist mein erstes Java-Projekt aus der Berufsschule.
+Es handelt sich um ein Konsolenprogramm, das als einfacher Fahrkartenautomat für den Tarifbereich Berlin AB dient.
 
-## Funktionen
-- Auswahl verschiedener Ticketarten
-- Eingabe der Ticketanzahl (max. 10)
-- Berechnung des Gesamtpreises
-- Geldeinwurf mit Eingabekontrolle
-- Ausgabe des Fahrscheins mit Animation
-- Rückgeldberechnung und Münzausgabe
-
-## Verwendete Technologien
-- Java (Konsolenanwendung)
-- Objektorientierte Programmierung (OOP)
-- Scanner zur Benutzereingabe
-
-## Autor
-Omid Khezri Aghdam – Auszubildender Fachinformatiker AE
+Funktionen:
+Auswahl verschiedener Ticketarten
+Eingabe der gewünschten Anzahl
+Einwurf von Geldbeträgen
+Berechnung und Ausgabe des Rückgelds
