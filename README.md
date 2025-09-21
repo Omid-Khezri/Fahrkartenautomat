@@ -6,6 +6,9 @@ Es handelt sich um ein Konsolenprogramm, das als einfacher Fahrkartenautomat fü
 Funktionen:
 
 Auswahl verschiedener Ticketarten
+
 Eingabe der gewünschten Anzahl
+
 Einwurf von Geldbeträgen
+
 Berechnung und Ausgabe des Rückgelds
